@@ -60,6 +60,5 @@ buck-out/
 /ios/Pods/
 /vendor/bundle/
 
-android/
 src/assets/images
 .git/
